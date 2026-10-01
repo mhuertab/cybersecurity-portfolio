@@ -1,86 +1,88 @@
 # Miguel Huerta Bohus
 
-### CISO | Cybersecurity | Cloud Security | IT Risk | Business Continuity
+### CISO | Ciberseguridad | Cloud Security | Riesgo TI | Continuidad Operacional
 
-Cybersecurity and technology professional with 17+ years of experience across IT infrastructure, networks, cloud security, cybersecurity operations, risk management, governance and business continuity.
+[🇬🇧 English version](README_EN.md)
 
-My career has evolved from hands-on infrastructure and networking roles into security engineering, cloud security and cybersecurity leadership. This background allows me to connect technical implementation with risk, resilience and business priorities.
+Profesional de ciberseguridad y tecnología con más de 17 años de experiencia en infraestructura TI, redes, seguridad, cloud security, operaciones de ciberseguridad, gestión de riesgos, gobierno y continuidad operacional.
 
-> **Technology → Security → Risk → Business**
+Mi trayectoria profesional ha evolucionado desde roles técnicos de infraestructura y redes hacia seguridad, cloud security, gestión de riesgos y liderazgo de ciberseguridad. Esta experiencia me permite conectar la implementación técnica con el riesgo, la resiliencia y las prioridades del negocio.
+
+> **Tecnología → Seguridad → Riesgo → Negocio**
 
 ---
 
-## Professional Focus
+## Perfil profesional
 
-I work across the technical and management layers of cybersecurity, with particular focus on:
+Trabajo entre las capas técnicas, de gestión y de negocio de la ciberseguridad, con foco principalmente en:
 
-- Cybersecurity strategy and governance
-- Security architecture
-- Cloud security (AWS)
+- Estrategia y gobierno de ciberseguridad
+- Arquitectura de seguridad
+- Cloud Security (AWS)
 - Identity & Access Management (IAM / PAM)
-- Vulnerability management
-- Security monitoring and incident management
-- Security automation
-- Business Continuity and Disaster Recovery
-- ISO/IEC 27001 and security risk management
-- Executive and business-oriented cybersecurity communication
+- Gestión de vulnerabilidades
+- Monitoreo de seguridad y gestión de incidentes
+- Automatización aplicada a seguridad
+- Continuidad Operacional y Disaster Recovery
+- ISO/IEC 27001 y gestión de riesgos de seguridad
+- Comunicación ejecutiva de riesgos y ciberseguridad
 
-My approach is based on translating security requirements into practical controls that can be implemented, operated, measured and continuously improved.
+Mi enfoque busca traducir requerimientos de seguridad en controles prácticos que puedan ser implementados, operados, medidos y mejorados continuamente.
 
 ---
 
-## Technical Areas
+## Áreas técnicas
 
-### Cybersecurity
+### Ciberseguridad
 `Security Architecture` · `Vulnerability Management` · `Incident Management` · `SIEM` · `SOC` · `IAM` · `PAM` · `EDR/XDR` · `Security Monitoring` · `Pentesting` · `Risk Management`
 
 ### Cloud Security
 `AWS` · `IAM` · `EC2` · `S3` · `Lambda` · `CloudTrail` · `CloudWatch` · `EventBridge` · `DevSecOps` · `CI/CD Security`
 
-### Infrastructure & Platforms
+### Infraestructura y plataformas
 `Linux` · `Windows Server` · `Active Directory` · `VMware` · `Docker` · `Cisco` · `Network Security`
 
-### Governance & Resilience
+### Gobierno y resiliencia
 `ISO/IEC 27001` · `Cybersecurity Governance` · `Technology Risk` · `BCP` · `DRP` · `IT Governance`
 
 ---
 
-# Portfolio
+# Portfolio técnico
 
-This repository contains reference architectures, technical approaches and demonstrative cybersecurity material organized around six areas.
+Este repositorio reúne enfoques, arquitecturas de referencia y material demostrativo organizado en seis áreas de trabajo.
 
-| Area | What it demonstrates |
+| Área | Qué demuestra |
 |---|---|
-| [Cloud Security](cloud-security/README.md) | Secure cloud architecture and control design |
-| [Identity & Access Management](identity-access-management/README.md) | Privileged access, least privilege and access lifecycle |
-| [Vulnerability Management](vulnerability-management/README.md) | Risk-based vulnerability lifecycle and remediation governance |
-| [Security Architecture](security-architecture/README.md) | Security-by-design and layered controls |
-| [Security Automation](security-automation/README.md) | Automation applied to cybersecurity operations |
-| [Business Continuity](business-continuity/README.md) | BCP/DRP, resilience and recovery governance |
+| [Cloud Security](cloud-security/README.md) | Arquitectura cloud segura y diseño de controles |
+| [Identity & Access Management](identity-access-management/README.md) | Accesos privilegiados, mínimo privilegio y ciclo de vida de accesos |
+| [Gestión de Vulnerabilidades](vulnerability-management/README.md) | Priorización basada en riesgo y gobierno de remediación |
+| [Arquitectura de Seguridad](security-architecture/README.md) | Security by Design y controles en profundidad |
+| [Automatización de Seguridad](security-automation/README.md) | Automatización aplicada a operaciones de ciberseguridad |
+| [Continuidad Operacional](business-continuity/README.md) | BCP/DRP, resiliencia y gobierno de recuperación |
 
-The material is intentionally vendor-neutral where possible and does not reproduce confidential corporate environments.
-
----
-
-## How I Approach Cybersecurity
-
-A security control should not exist only because a framework requires it.
-
-I normally look at cybersecurity through this sequence:
-
-**Business asset → Threat → Risk → Control → Implementation → Monitoring → Evidence → Improvement**
-
-This connects technical work with measurable risk reduction and business resilience.
+El contenido es deliberadamente genérico o anonimizado y no reproduce ambientes corporativos confidenciales.
 
 ---
 
-## Education
+## Cómo abordo la ciberseguridad
+
+Un control de seguridad no debería existir solamente porque un framework lo exige. Debe responder a un riesgo concreto y tener un propósito operacional y de negocio.
+
+Mi forma de abordar los problemas de ciberseguridad sigue normalmente esta lógica:
+
+**Activo de negocio → Amenaza → Riesgo → Control → Implementación → Monitoreo → Evidencia → Mejora**
+
+Esto permite conectar el trabajo técnico con reducción de riesgo, trazabilidad y resiliencia del negocio.
+
+---
+
+## Formación
 
 - **MBA Tech** — Universidad Andrés Bello
-- **Diploma in Cybersecurity** — FEN, Universidad de Chile
-- **Engineering in Connectivity and Networks** — AIEP
+- **Diplomado en Ciberseguridad** — FEN, Universidad de Chile
+- **Ingeniería en Conectividad y Redes** — AIEP
 
-## Certifications & Professional Training
+## Certificaciones y formación profesional
 
 - Auditor Interno ISO/IEC 27001:2022 — AENOR
 - AWS Certified Cloud Practitioner
@@ -91,10 +93,10 @@ This connects technical work with measurable risk reduction and business resilie
 
 ---
 
-## About this Repository
+## Sobre este repositorio
 
-This is a professional portfolio intended to demonstrate how I think about and approach cybersecurity problems.
+Este portfolio busca mostrar cómo analizo y abordo problemas de ciberseguridad desde una perspectiva técnica, de riesgo y de negocio.
 
-All examples, architectures and technical material published here are demonstrative, anonymized or based on reference scenarios.
+Los ejemplos, arquitecturas y materiales técnicos publicados son demostrativos, anonimizados o corresponden a escenarios de referencia.
 
-**No confidential company information, customer data, credentials, internal vulnerabilities, private infrastructure details or proprietary configurations are published in this repository.**
+**No se publica información confidencial de empresas, datos de clientes, credenciales, vulnerabilidades internas, detalles de infraestructura privada ni configuraciones propietarias.**
