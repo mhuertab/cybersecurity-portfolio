@@ -23,6 +23,7 @@ Trabajo entre las capas técnicas, de gestión y de negocio de la ciberseguridad
 - Gestión de vulnerabilidades
 - Monitoreo de seguridad y gestión de incidentes
 - Automatización aplicada a seguridad
+- Infraestructura y Security Engineering
 - Continuidad Operacional y Disaster Recovery
 - ISO/IEC 27001 y gestión de riesgos de seguridad
 - Comunicación ejecutiva de riesgos y ciberseguridad
@@ -40,7 +41,7 @@ Mi enfoque busca traducir requerimientos de seguridad en controles prácticos qu
 `AWS` · `IAM` · `EC2` · `S3` · `Lambda` · `CloudTrail` · `CloudWatch` · `EventBridge` · `DevSecOps` · `CI/CD Security`
 
 ### Infraestructura y plataformas
-`Linux` · `Windows Server` · `Active Directory` · `VMware` · `Docker` · `Cisco` · `Network Security`
+`Linux` · `Windows Server` · `Active Directory` · `VMware` · `Docker` · `Cisco` · `Routing & Switching` · `Firewalls` · `VPN` · `DNS` · `Network Security`
 
 ### Gobierno y resiliencia
 `ISO/IEC 27001` · `Cybersecurity Governance` · `Technology Risk` · `BCP` · `DRP` · `IT Governance`
@@ -49,10 +50,11 @@ Mi enfoque busca traducir requerimientos de seguridad en controles prácticos qu
 
 # Portfolio técnico
 
-Este repositorio reúne enfoques, arquitecturas de referencia y material demostrativo organizado en seis áreas de trabajo.
+Este repositorio reúne enfoques, arquitecturas de referencia y material demostrativo organizado en distintas áreas de trabajo.
 
 | Área | Qué demuestra |
 |---|---|
+| [Infraestructura & Security Engineering](infrastructure-security/README.md) | Base técnica en sistemas, redes, cloud y seguridad aplicada a infraestructura |
 | [Cloud Security](cloud-security/README.md) | Arquitectura cloud segura y diseño de controles |
 | [Identity & Access Management](identity-access-management/README.md) | Accesos privilegiados, mínimo privilegio y ciclo de vida de accesos |
 | [Gestión de Vulnerabilidades](vulnerability-management/README.md) | Priorización basada en riesgo y gobierno de remediación |
@@ -61,6 +63,14 @@ Este repositorio reúne enfoques, arquitecturas de referencia y material demostr
 | [Continuidad Operacional](business-continuity/README.md) | BCP/DRP, resiliencia y gobierno de recuperación |
 
 El contenido es deliberadamente genérico o anonimizado y no reproduce ambientes corporativos confidenciales.
+
+---
+
+## Evolución profesional
+
+**Infraestructura y Redes → Seguridad → Cloud Security → Riesgo y Gobierno → CISO**
+
+Esta evolución es parte central de mi perfil: comprender la tecnología desde su operación y arquitectura para posteriormente conectarla con seguridad, riesgo, continuidad y necesidades de negocio.
 
 ---
 
